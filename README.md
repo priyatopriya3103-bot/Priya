@@ -1,3 +1,3 @@
 # Priya
-This is my git Repository
-i am Priya Gupta
+This is my git Reposito
+Author:- Priya Gupta
